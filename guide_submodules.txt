@@ -8,3 +8,7 @@ to remove sub modules
 
   for cli use git rm name of folder
    for bash  use rm -rf .git/modules/nameoffolder
+
+
+to clone the modules with updates sub  use git clone --recurse-submodules nameofrepo
+to get the update sub use git submodule update --remote
