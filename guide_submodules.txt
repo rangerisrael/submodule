@@ -1,0 +1,10 @@
+to add submodule git add submodule name of folder/repo
+to update git submodule init then git submodule update
+to remove sub modules
+  goto to folder sub delete that
+  go to git and find modules delete sub module files
+  got to config remove path
+  commit and push
+
+  for cli use git rm name of folder
+   for bash  use rm -rf .git/modules/nameoffolder
